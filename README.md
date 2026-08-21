@@ -1,16 +1,37 @@
-## Hi there 👋
+# GitHub Profile README
 
-<!--
-**vache4ogan/vache4ogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vache Oganisyan 👋
 
-Here are some ideas to get you started:
+### ML / NLP / LLM Engineer & Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on **Machine Learning, Natural Language Processing and Large Language Models**, combining research with practical engineering.
+
+Interested in building AI systems that go beyond prototypes — from experimentation and evaluation to **production-ready solutions for real-world and business tasks**.
+
+* 🧠 NLP, LLMs, RAG and Agentic AI
+* 🔬 Applied AI research and experimentation
+* 📊 Classical Machine Learning
+* ⚙️ Fine-tuning, PEFT / LoRA and local inference
+* 🚀 End-to-end AI systems and production deployment
+* 🎓 BSc in Mathematical Foundations of Artificial Intelligence at Innopolis University
+
+## 🛠 Tech Stack
+
+### AI / ML
+
+`Python` · `PyTorch` · `Transformers` · `spaCy` · `LangGraph` · `LangChain` · `vLLM` · `Scikit-learn` · `XGBoost` · `CatBoost` · `LightGBM` · `SHAP` · `NLP` · `LLM` · `RAG` · `Agentic Systems` · `MCP` · `LLM Evaluation` · `Prompt Engineering` · `Fine-tuning` · `PEFT / LoRA` · `QLoRA` · `Explainable AI`
+
+### Data & Infrastructure
+
+`Pandas` · `NumPy` · `SQL` · `PostgreSQL` · `PySpark` · `Hadoop` · `ChromaDB` · `Docker` · `Docker Compose` · `Git` · `ClearML` · `LangSmith` · `Ollama`
+
+### Backend
+
+`FastAPI` · `Pydantic` · `REST APIs` · `Python` · `SQL` · `PostgreSQL` · `Docker` · `Docker Compose`
+
+## 📫 Contact
+
+
+Telegram: @v208404
+
+OpenReview: https://openreview.net/profile?id=%7EVache_Oganisyan1\
