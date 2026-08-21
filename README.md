@@ -34,4 +34,4 @@ Interested in building AI systems that go beyond prototypes — from experimenta
 
 Telegram: @v208404
 
-OpenReview: https://openreview.net/profile?id=%7EVache_Oganisyan1\
+
