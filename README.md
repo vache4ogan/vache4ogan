@@ -15,19 +15,6 @@ Interested in building AI systems that go beyond prototypes — from experimenta
 * 🚀 End-to-end AI systems and production deployment
 * 🎓 BSc in Mathematical Foundations of Artificial Intelligence at Innopolis University
 
-## 🛠 Tech Stack
-
-### AI / ML
-
-`Python` · `PyTorch` · `Transformers` · `spaCy` · `LangGraph` · `LangChain` · `vLLM` · `Scikit-learn` · `XGBoost` · `CatBoost` · `LightGBM` · `SHAP` · `NLP` · `LLM` · `RAG` · `Agentic Systems` · `MCP` · `LLM Evaluation` · `Prompt Engineering` · `Fine-tuning` · `PEFT / LoRA` · `QLoRA` · `Explainable AI`
-
-### Data & Infrastructure
-
-`Pandas` · `NumPy` · `SQL` · `PostgreSQL` · `PySpark` · `Hadoop` · `ChromaDB` · `Docker` · `Docker Compose` · `Git` · `ClearML` · `LangSmith` · `Ollama`
-
-### Backend
-
-`FastAPI` · `Pydantic` · `REST APIs` · `Python` · `SQL` · `PostgreSQL` · `Docker` · `Docker Compose`
 
 ## 📫 Contact
 
