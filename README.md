@@ -2,9 +2,9 @@
 
 # Hi, I'm Vache Oganisyan 👋
 
-### ML / NLP / LLM Engineer & Researcher
+### ML / GenAI Engineer & Researcher
 
-I work on **Machine Learning, Natural Language Processing and Large Language Models**, combining research with practical engineering.
+I work on **Machine Learning and Generative AI**, combining research with practical engineering.
 
 Interested in building AI systems that go beyond prototypes — from experimentation and evaluation to **production-ready solutions for real-world and business tasks**.
 
