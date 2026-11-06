@@ -6,7 +6,7 @@
 
 I work on **Machine Learning and Generative AI**, combining research with practical engineering.
 
-Interested in building AI systems that go beyond prototypes — from experimentation and evaluation to **production-ready solutionss and business tasks**.
+Interested in building AI systems that go beyond prototypes — from experimentation and evaluation to **production-ready solutions and business tasks**.
 
 * 🧠 NLP, LLMs, RAG and Agentic AI
 * 🔬 Applied AI research and experimentation
